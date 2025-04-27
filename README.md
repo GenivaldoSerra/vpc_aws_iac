@@ -1,11 +1,3 @@
-Boa, Genivaldo!  
-Assim o README já fica 100% completo para quem quiser começar do zero. 🚀  
-Vou adicionar uma seção específica sobre **Instalação do AWS CLI** antes da configuração das credenciais.
-
-Aqui está a nova versão atualizada:
-
----
-
 # Projeto Terraform - Criação de VPC na AWS
 
 Este projeto cria uma Virtual Private Cloud (VPC) simples na AWS utilizando o Terraform.
@@ -165,5 +157,3 @@ Confirme com `yes`.
 ├── terraform.tfvars # Valores atribuídos às variáveis (opcional)
 └── README.md        # Este documento
 ```
-
----
